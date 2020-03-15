@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dnxnuu.github.io</id>
+    <title>Mejaz Machine</title>
+    <updated>2020-03-15T15:23:52.526Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://dnxnuu.github.io"/>
+    <link rel="self" href="https://dnxnuu.github.io/atom.xml"/>
+    <subtitle>月印万川</subtitle>
+    <logo>https://dnxnuu.github.io/images/avatar.png</logo>
+    <icon>https://dnxnuu.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Mejaz Machine</rights>
+</feed>
