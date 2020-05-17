@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dnxnuu.github.io</id>
     <title>Mejaz Machine</title>
-    <updated>2020-03-15T15:23:52.526Z</updated>
+    <updated>2020-05-17T05:42:47.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dnxnuu.github.io"/>
     <link rel="self" href="https://dnxnuu.github.io/atom.xml"/>
@@ -10,4 +10,11 @@
     <logo>https://dnxnuu.github.io/images/avatar.png</logo>
     <icon>https://dnxnuu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Mejaz Machine</rights>
+    <entry>
+        <title type="html"><![CDATA[宇宙或不具有“各向同性”]]></title>
+        <id>https://dnxnuu.github.io/post/yu-zhou-huo-bu-ju-you-ge-xiang-tong-xing/</id>
+        <link href="https://dnxnuu.github.io/post/yu-zhou-huo-bu-ju-you-ge-xiang-tong-xing/">
+        </link>
+        <updated>2020-05-17T05:39:18.000Z</updated>
+    </entry>
 </feed>
